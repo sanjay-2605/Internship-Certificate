@@ -23,4 +23,7 @@ Problem-Solving & Debugging – Fixing errors and optimizing code.
 Project Execution – Delivering tasks under deadlines with proper documentation.
 
 
+ CERTICATE- https://github.com/sanjay-2605/Internship-Certificate/blob/main/Certificate.pdf
+
+
 
